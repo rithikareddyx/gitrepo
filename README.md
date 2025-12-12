@@ -1,1 +1,1 @@
-Rithika's project
+Basic git commands
